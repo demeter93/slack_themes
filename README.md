@@ -5,7 +5,7 @@ Who doesn't love Slack? It's pretty much perfect. But if you stare at it for app
 
 This repo is a collection of sidebar themes. To use them:
 
-1. Select the main menu dropdown, to the right of your organization's name.
+1. Select the main menu dropdown by clicking your profile pic.
 2. Select "Preferences".
 3. Select "Sidebar Theme".
 4. Copy and paste the hex values from your desired configuration into the large text box at the bottom of the Custom Theme section.
